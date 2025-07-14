@@ -1,0 +1,27 @@
+# Core ML & GPU
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+onnxruntime-gpu==1.18.0
+tensorflow==2.14.0
+
+# Model Conversion & Utilities
+onnx==1.16.0
+onnx-tf==1.10.0
+tf2onnx==1.16.0
+
+
+# Application & Interface
+gradio==4.24.0
+pandas==2.2.2
+scikit-learn==1.4.2
+opencv-python-headless==4.10.0.84
+tqdm==4.66.4
+numpy==1.26.4
+scikit-image==0.22.0
+
+# Vector Search
+faiss-cpu==1.7.4
+
+
+
