@@ -173,16 +173,7 @@ Hệ thống sử dụng kết hợp các thành phần sau:
 * Khám phá thêm các kiến trúc như ArcFace hoặc SphereFace để nâng cao độ chính xác.
 
 
-## Quy trình tích hợp
 
-* Dùng YOLOv5 để xác định vị trí khuôn mặt trong ảnh hoặc video.
-* Crop và chuẩn hóa các khuôn mặt phát hiện được (resize, chuyển đổi màu).
-* Đưa khuôn mặt đã xử lý vào GhostFaceNet để thực hiện nhận diện danh tính.
-
-## Lợi ích đạt được
-
-* Nâng cao khả năng xử lý ảnh trong môi trường thực tế, đặc biệt khi khung hình có nhiều đối tượng.
-* Tối ưu tốc độ nhận diện khuôn mặt bằng cách kết hợp YOLOv5 và FAISS.
 
 
 
