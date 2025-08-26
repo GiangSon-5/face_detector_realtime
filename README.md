@@ -29,13 +29,13 @@ Bạn có thể trải nghiệm hệ thống nhận diện khuôn mặt qua giao
 Dưới đây là sơ đồ trực quan mô tả các bước chính trong dự án nhận diện khuôn mặt thực tế, theo thứ tự từ trái sang phải:
 
 <p align="center">
-  <img src="https://github.com/GiangSon-5/face_detector_realtime/blob/main/images/image1.jpg" width="360"/>
+  <img src="https://github.com/GiangSon-5/face_detector_realtime/blob/main/images/image1.jpg" width="100%"/>
   <br>⬇️<br>
-  <img src="https://github.com/GiangSon-5/face_detector_realtime/blob/main/images/image2.jpg" width="360" height="480"/>
+  <img src="https://github.com/GiangSon-5/face_detector_realtime/blob/main/images/image2.jpg" width="100%"/>
   <br>⬇️<br>
-  <img src="https://github.com/GiangSon-5/face_detector_realtime/blob/main/images/image3.jpg" width="360"/>
+  <img src="https://github.com/GiangSon-5/face_detector_realtime/blob/main/images/image3.jpg" width="100%"/>
   <br>⬇️<br>
-  <img src="https://github.com/GiangSon-5/face_detector_realtime/blob/main/images/image4.jpg" width="360"/>
+  <img src="https://github.com/GiangSon-5/face_detector_realtime/blob/main/images/image4.jpg" width="100%"/>
 </p>
 
 #  Hiệu năng và kết quả
